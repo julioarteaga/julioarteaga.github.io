@@ -61,7 +61,7 @@ a
 {
 	position: absolute;
 	left: 0px;
-	bottom: -80px;
+	bottom: -130px;
 }
 meter
 {
@@ -74,7 +74,7 @@ meter
 #textoPr2
 {
 	width: 600px;
-	height: 400px;
+	height: 450px;
 	background-color: #1d1d1d;
 	color: #fff;
 	margin:0 auto;
